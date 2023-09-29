@@ -1,4 +1,4 @@
-<h1 align="center">Converter Objeto em XML</h1>
+<h1 align="center">Conversor de Objeto em XML</h1>
 
 <div align="center">
 
